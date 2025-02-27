@@ -625,7 +625,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗？下方右二按钮可以选择模型，目前包含：deepseek-chat(V3)、deepseek-reasoner(R1)",
+    BotHello: "有什么可以帮你的吗？下方右二按钮可以选择模型，目前包含：deepseek-chat(V3)、deepseek-reasoner(R1)、更多模型尽请期待。。。",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
